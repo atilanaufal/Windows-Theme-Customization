@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Vivaldi",
+    "path": "C:\\Users\\Corss\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Vivaldi.lnk",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\vivaldi_1766988233041.png",
+    "type": "app",
+    "id": 1766988233043
+  },
+  {
+    "title": "Visual Studio Code",
+    "path": "C:\\Users\\Corss\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\visual_studio_code_1766988243932.png",
+    "type": "app",
+    "id": 1766988243933
+  },
+  {
+    "title": "UniGetUI",
+    "path": "explorer.exe shell:AppsFolder\\D:\\Applications\\UniGetUI\\UniGetUI.exe",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\unigetui_1766988439690.png",
+    "type": "app",
+    "id": 1766988276132
+  },
+  {
+    "title": "File Pilot",
+    "path": "C:\\Users\\Corss\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\File Pilot.lnk",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\file_pilot_1767021603918.png",
+    "type": "app",
+    "id": 1767021603920
+  },
+  {
+    "title": "Free Download Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Free Download Manager\\Free Download Manager.lnk",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\free_download_manager_1767021622766.png",
+    "type": "app",
+    "id": 1767021622767
+  },
+  {
+    "title": "Flow Launcher",
+    "path": "C:\\Users\\Corss\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Flow Launcher\\Flow Launcher.lnk",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\flow_launcher_1767021774125.png",
+    "type": "app",
+    "id": 1767021774126
+  },
+  {
+    "title": "Honkai Star Rail",
+    "path": "E:/Games/HoYoPlay/games/Star Rail Games/StarRail.exe",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\honkai_star_rail_1767090570059.ico",
+    "type": "app",
+    "id": 1767090570061
+  },
+  {
+    "title": "GlazeWM",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\GlazeWM.lnk",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\glazewm_1767249299319.png",
+    "type": "app",
+    "id": 1767249299320
+  },
+  {
+    "title": "Obsidian",
+    "path": "C:\\Users\\Corss\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Obsidian.lnk",
+    "icon": "C:\\Users\\Corss\\.config\\yasb\\launchpad\\icons\\obsidian_1767356358350.png",
+    "type": "app",
+    "id": 1767356358351
+  }
+]
