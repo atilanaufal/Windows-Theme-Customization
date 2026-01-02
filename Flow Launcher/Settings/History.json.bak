@@ -1,0 +1,668 @@
+{
+  "Items": [
+    {
+      "Query": "cmd",
+      "ExecutedDateTime": "2025-12-28T18:18:46.9517265+07:00"
+    },
+    {
+      "Query": "viv",
+      "ExecutedDateTime": "2025-12-28T18:19:19.604963+07:00"
+    },
+    {
+      "Query": "everyt",
+      "ExecutedDateTime": "2025-12-28T18:28:29.3098015+07:00"
+    },
+    {
+      "Query": "flow",
+      "ExecutedDateTime": "2025-12-28T18:44:04.6717977+07:00"
+    },
+    {
+      "Query": "cmd",
+      "ExecutedDateTime": "2025-12-28T18:47:38.28943+07:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-12-28T18:47:47.8222406+07:00"
+    },
+    {
+      "Query": "?",
+      "ExecutedDateTime": "2025-12-28T18:56:57.9064905+07:00"
+    },
+    {
+      "Query": "free",
+      "ExecutedDateTime": "2025-12-28T19:39:23.5618564+07:00"
+    },
+    {
+      "Query": "s var",
+      "ExecutedDateTime": "2025-12-28T20:09:12.002472+07:00"
+    },
+    {
+      "Query": "wor",
+      "ExecutedDateTime": "2025-12-28T20:23:38.8600236+07:00"
+    },
+    {
+      "Query": "ya",
+      "ExecutedDateTime": "2025-12-28T22:05:25.5177836+07:00"
+    },
+    {
+      "Query": "user",
+      "ExecutedDateTime": "2025-12-28T22:14:36.2458729+07:00"
+    },
+    {
+      "Query": "C:\\Users\\",
+      "ExecutedDateTime": "2025-12-28T22:14:38.6141188+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\",
+      "ExecutedDateTime": "2025-12-28T22:14:42.4301409+07:00"
+    },
+    {
+      "Query": "vs",
+      "ExecutedDateTime": "2025-12-28T22:17:39.3781965+07:00"
+    },
+    {
+      "Query": "s fon",
+      "ExecutedDateTime": "2025-12-28T22:32:21.5485738+07:00"
+    },
+    {
+      "Query": "ya",
+      "ExecutedDateTime": "2025-12-28T22:34:42.5629145+07:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2025-12-28T22:40:58.6341326+07:00"
+    },
+    {
+      "Query": "s",
+      "ExecutedDateTime": "2025-12-28T22:43:34.5756402+07:00"
+    },
+    {
+      "Query": "s fonts",
+      "ExecutedDateTime": "2025-12-28T22:51:01.4065885+07:00"
+    },
+    {
+      "Query": "ya",
+      "ExecutedDateTime": "2025-12-28T23:23:29.9698247+07:00"
+    },
+    {
+      "Query": "win",
+      "ExecutedDateTime": "2025-12-29T07:39:28.7817434+07:00"
+    },
+    {
+      "Query": "s power pl",
+      "ExecutedDateTime": "2025-12-29T07:48:42.7809514+07:00"
+    },
+    {
+      "Query": "s app",
+      "ExecutedDateTime": "2025-12-29T07:49:38.6959438+07:00"
+    },
+    {
+      "Query": "ever",
+      "ExecutedDateTime": "2025-12-29T07:54:25.7305261+07:00"
+    },
+    {
+      "Query": "rec",
+      "ExecutedDateTime": "2025-12-29T07:58:28.2069154+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-12-29T08:02:47.542387+07:00"
+    },
+    {
+      "Query": "ex",
+      "ExecutedDateTime": "2025-12-29T08:10:05.8873068+07:00"
+    },
+    {
+      "Query": "s defe",
+      "ExecutedDateTime": "2025-12-29T08:32:56.8634614+07:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-12-29T08:37:53.9225219+07:00"
+    },
+    {
+      "Query": "win",
+      "ExecutedDateTime": "2025-12-29T08:40:47.6489237+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-12-29T09:17:09.2616774+07:00"
+    },
+    {
+      "Query": "s sett",
+      "ExecutedDateTime": "2025-12-29T09:43:34.7776433+07:00"
+    },
+    {
+      "Query": "win",
+      "ExecutedDateTime": "2025-12-29T10:13:06.8964223+07:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2025-12-29T10:20:50.2907551+07:00"
+    },
+    {
+      "Query": "s vari",
+      "ExecutedDateTime": "2025-12-29T10:33:42.0298354+07:00"
+    },
+    {
+      "Query": "s privacy",
+      "ExecutedDateTime": "2025-12-29T10:54:13.3269347+07:00"
+    },
+    {
+      "Query": "w",
+      "ExecutedDateTime": "2025-12-29T11:05:49.9415539+07:00"
+    },
+    {
+      "Query": "re",
+      "ExecutedDateTime": "2025-12-29T11:06:04.3853352+07:00"
+    },
+    {
+      "Query": "s app",
+      "ExecutedDateTime": "2025-12-29T11:07:03.5241583+07:00"
+    },
+    {
+      "Query": "one",
+      "ExecutedDateTime": "2025-12-29T11:07:41.914977+07:00"
+    },
+    {
+      "Query": "msc",
+      "ExecutedDateTime": "2025-12-29T11:08:51.3380829+07:00"
+    },
+    {
+      "Query": "s power",
+      "ExecutedDateTime": "2025-12-29T13:43:05.3661026+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-12-29T14:40:18.3535604+07:00"
+    },
+    {
+      "Query": "s sett",
+      "ExecutedDateTime": "2025-12-29T15:36:04.1506496+07:00"
+    },
+    {
+      "Query": "wint",
+      "ExecutedDateTime": "2025-12-29T16:18:23.5005592+07:00"
+    },
+    {
+      "Query": "SER",
+      "ExecutedDateTime": "2025-12-29T18:49:08.6854167+07:00"
+    },
+    {
+      "Query": "WI",
+      "ExecutedDateTime": "2025-12-29T18:50:02.3653255+07:00"
+    },
+    {
+      "Query": "s sett",
+      "ExecutedDateTime": "2025-12-29T18:50:46.1856134+07:00"
+    },
+    {
+      "Query": "po",
+      "ExecutedDateTime": "2025-12-29T18:51:36.3514814+07:00"
+    },
+    {
+      "Query": "s sett",
+      "ExecutedDateTime": "2025-12-29T18:55:29.3153336+07:00"
+    },
+    {
+      "Query": "msc",
+      "ExecutedDateTime": "2025-12-29T19:00:35.5546589+07:00"
+    },
+    {
+      "Query": "te",
+      "ExecutedDateTime": "2025-12-29T19:01:30.0416804+07:00"
+    },
+    {
+      "Query": "ser",
+      "ExecutedDateTime": "2025-12-29T19:53:36.7108639+07:00"
+    },
+    {
+      "Query": "s sett",
+      "ExecutedDateTime": "2025-12-29T19:56:35.4457137+07:00"
+    },
+    {
+      "Query": "msc",
+      "ExecutedDateTime": "2025-12-29T20:04:11.7070547+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-12-29T20:13:06.9745887+07:00"
+    },
+    {
+      "Query": "reg",
+      "ExecutedDateTime": "2025-12-29T20:13:45.9005499+07:00"
+    },
+    {
+      "Query": "eve",
+      "ExecutedDateTime": "2025-12-29T20:26:31.0102548+07:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2025-12-29T20:27:03.881738+07:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-12-29T20:44:57.7783185+07:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2025-12-29T20:53:02.3316533+07:00"
+    },
+    {
+      "Query": "netplwiz",
+      "ExecutedDateTime": "2025-12-29T20:54:22.6188419+07:00"
+    },
+    {
+      "Query": "netp",
+      "ExecutedDateTime": "2025-12-29T20:56:26.9182639+07:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2025-12-29T21:00:15.7764749+07:00"
+    },
+    {
+      "Query": "s restore",
+      "ExecutedDateTime": "2025-12-29T21:05:59.0901268+07:00"
+    },
+    {
+      "Query": "s create restore",
+      "ExecutedDateTime": "2025-12-29T21:06:14.748675+07:00"
+    },
+    {
+      "Query": "ser",
+      "ExecutedDateTime": "2025-12-29T21:06:35.0819513+07:00"
+    },
+    {
+      "Query": "reg",
+      "ExecutedDateTime": "2025-12-29T21:08:56.8884548+07:00"
+    },
+    {
+      "Query": "s grap",
+      "ExecutedDateTime": "2025-12-29T21:14:52.2798588+07:00"
+    },
+    {
+      "Query": "ser",
+      "ExecutedDateTime": "2025-12-29T21:16:11.8358403+07:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2025-12-29T21:20:43.5209327+07:00"
+    },
+    {
+      "Query": "cmd",
+      "ExecutedDateTime": "2025-12-29T21:27:47.24744+07:00"
+    },
+    {
+      "Query": "ms",
+      "ExecutedDateTime": "2025-12-29T21:32:48.7238237+07:00"
+    },
+    {
+      "Query": "cmd",
+      "ExecutedDateTime": "2025-12-29T21:44:59.464402+07:00"
+    },
+    {
+      "Query": "cm",
+      "ExecutedDateTime": "2025-12-29T21:55:08.8664285+07:00"
+    },
+    {
+      "Query": "win",
+      "ExecutedDateTime": "2025-12-29T22:21:52.848585+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-12-30T10:02:35.2869871+07:00"
+    },
+    {
+      "Query": "expl",
+      "ExecutedDateTime": "2025-12-30T10:11:29.5012164+07:00"
+    },
+    {
+      "Query": "free",
+      "ExecutedDateTime": "2025-12-30T10:37:41.4808798+07:00"
+    },
+    {
+      "Query": "abd",
+      "ExecutedDateTime": "2025-12-30T10:44:28.2533472+07:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-12-30T13:12:32.3250541+07:00"
+    },
+    {
+      "Query": "nana",
+      "ExecutedDateTime": "2025-12-30T13:24:49.1190247+07:00"
+    },
+    {
+      "Query": "re",
+      "ExecutedDateTime": "2025-12-30T13:26:35.9549583+07:00"
+    },
+    {
+      "Query": "win",
+      "ExecutedDateTime": "2025-12-30T13:29:33.2167857+07:00"
+    },
+    {
+      "Query": "nan",
+      "ExecutedDateTime": "2025-12-30T13:33:06.0545367+07:00"
+    },
+    {
+      "Query": "winge",
+      "ExecutedDateTime": "2025-12-30T13:35:38.3639343+07:00"
+    },
+    {
+      "Query": "na",
+      "ExecutedDateTime": "2025-12-30T13:39:29.378855+07:00"
+    },
+    {
+      "Query": "con",
+      "ExecutedDateTime": "2025-12-30T14:57:14.4948354+07:00"
+    },
+    {
+      "Query": "flow",
+      "ExecutedDateTime": "2025-12-30T15:30:47.0931935+07:00"
+    },
+    {
+      "Query": "w",
+      "ExecutedDateTime": "2025-12-30T17:22:27.7112004+07:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2025-12-30T19:00:28.0596945+07:00"
+    },
+    {
+      "Query": "w",
+      "ExecutedDateTime": "2025-12-30T19:01:46.7662478+07:00"
+    },
+    {
+      "Query": "s env",
+      "ExecutedDateTime": "2025-12-30T19:13:44.8046401+07:00"
+    },
+    {
+      "Query": "s turn wind",
+      "ExecutedDateTime": "2025-12-30T19:14:35.1746635+07:00"
+    },
+    {
+      "Query": "win",
+      "ExecutedDateTime": "2025-12-30T19:52:34.307485+07:00"
+    },
+    {
+      "Query": "mail",
+      "ExecutedDateTime": "2025-12-30T19:56:59.6920175+07:00"
+    },
+    {
+      "Query": "s font",
+      "ExecutedDateTime": "2025-12-31T10:50:53.6219525+07:00"
+    },
+    {
+      "Query": "contr",
+      "ExecutedDateTime": "2025-12-31T12:16:11.9207667+07:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2025-12-31T13:44:50.6118521+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-12-31T20:27:27.5730625+07:00"
+    },
+    {
+      "Query": "lo",
+      "ExecutedDateTime": "2025-12-31T20:46:57.1331129+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2025-12-31T20:52:45.6037452+07:00"
+    },
+    {
+      "Query": "lo",
+      "ExecutedDateTime": "2025-12-31T20:53:01.5281066+07:00"
+    },
+    {
+      "Query": "term",
+      "ExecutedDateTime": "2026-01-01T12:01:28.5225166+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2026-01-01T13:38:21.080741+07:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2026-01-01T13:44:34.141262+07:00"
+    },
+    {
+      "Query": "vs",
+      "ExecutedDateTime": "2026-01-01T14:06:58.5639129+07:00"
+    },
+    {
+      "Query": "fil",
+      "ExecutedDateTime": "2026-01-01T14:37:56.0921706+07:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2026-01-01T14:46:19.7360646+07:00"
+    },
+    {
+      "Query": "glaze",
+      "ExecutedDateTime": "2026-01-01T21:36:48.2709599+07:00"
+    },
+    {
+      "Query": "C:\\Program Files\\glzr.io\\GlazeWM\\",
+      "ExecutedDateTime": "2026-01-01T21:36:49.5643789+07:00"
+    },
+    {
+      "Query": "GL",
+      "ExecutedDateTime": "2026-01-02T08:01:01.104533+07:00"
+    },
+    {
+      "Query": "W",
+      "ExecutedDateTime": "2026-01-02T08:04:05.6865292+07:00"
+    },
+    {
+      "Query": "w",
+      "ExecutedDateTime": "2026-01-02T08:49:31.4239003+07:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2026-01-02T10:36:10.6573824+07:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2026-01-02T13:08:18.0018381+07:00"
+    },
+    {
+      "Query": "startup",
+      "ExecutedDateTime": "2026-01-02T13:18:38.4032212+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\",
+      "ExecutedDateTime": "2026-01-02T13:18:40.347853+07:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2026-01-02T13:36:38.2484671+07:00"
+    },
+    {
+      "Query": "yasb config",
+      "ExecutedDateTime": "2026-01-02T14:05:03.2437711+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T14:05:06.6442518+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2026-01-02T14:10:54.5594699+07:00"
+    },
+    {
+      "Query": "yasb c",
+      "ExecutedDateTime": "2026-01-02T14:11:04.8960791+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T14:11:06.7999639+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2026-01-02T14:11:33.9078412+07:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2026-01-02T14:12:48.2804611+07:00"
+    },
+    {
+      "Query": "C:\\Program Files\\glzr.io\\GlazeWM\\",
+      "ExecutedDateTime": "2026-01-02T14:12:49.4345776+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2026-01-02T14:15:21.2425547+07:00"
+    },
+    {
+      "Query": "yasb c",
+      "ExecutedDateTime": "2026-01-02T15:00:10.1363884+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T15:00:11.0948699+07:00"
+    },
+    {
+      "Query": "ya",
+      "ExecutedDateTime": "2026-01-02T15:01:10.8953001+07:00"
+    },
+    {
+      "Query": "yasb con",
+      "ExecutedDateTime": "2026-01-02T15:01:58.6926072+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T15:01:59.7065643+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2026-01-02T15:02:54.9086267+07:00"
+    },
+    {
+      "Query": "yasb co",
+      "ExecutedDateTime": "2026-01-02T15:04:04.8389415+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T15:04:05.4110054+07:00"
+    },
+    {
+      "Query": "ya",
+      "ExecutedDateTime": "2026-01-02T15:05:34.3600897+07:00"
+    },
+    {
+      "Query": "yas",
+      "ExecutedDateTime": "2026-01-02T15:06:24.8183306+07:00"
+    },
+    {
+      "Query": "ya",
+      "ExecutedDateTime": "2026-01-02T15:08:44.1957103+07:00"
+    },
+    {
+      "Query": "yasb c",
+      "ExecutedDateTime": "2026-01-02T15:09:01.8643974+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T15:09:02.6003247+07:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2026-01-02T15:10:05.7230977+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\AppData\\Local\\YASB\\",
+      "ExecutedDateTime": "2026-01-02T15:10:08.1869918+07:00"
+    },
+    {
+      "Query": "ya",
+      "ExecutedDateTime": "2026-01-02T15:10:59.1730066+07:00"
+    },
+    {
+      "Query": "yasb",
+      "ExecutedDateTime": "2026-01-02T15:11:26.1831249+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T15:11:27.105672+07:00"
+    },
+    {
+      "Query": "qu",
+      "ExecutedDateTime": "2026-01-02T17:30:15.912848+07:00"
+    },
+    {
+      "Query": "glazewm",
+      "ExecutedDateTime": "2026-01-02T18:08:22.0887911+07:00"
+    },
+    {
+      "Query": "C:\\Program Files\\glzr.io\\GlazeWM\\cli\\",
+      "ExecutedDateTime": "2026-01-02T18:08:23.7608149+07:00"
+    },
+    {
+      "Query": "glazewm",
+      "ExecutedDateTime": "2026-01-02T18:08:52.6777774+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.glzr\\glazewm\\",
+      "ExecutedDateTime": "2026-01-02T18:08:54.1877471+07:00"
+    },
+    {
+      "Query": "obsi",
+      "ExecutedDateTime": "2026-01-02T19:17:40.6331678+07:00"
+    },
+    {
+      "Query": "yasb con",
+      "ExecutedDateTime": "2026-01-02T19:18:37.1079216+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.config\\yasb\\",
+      "ExecutedDateTime": "2026-01-02T19:18:38.8864076+07:00"
+    },
+    {
+      "Query": "glaz",
+      "ExecutedDateTime": "2026-01-02T19:39:17.8689067+07:00"
+    },
+    {
+      "Query": "C:\\Users\\Corss\\.glzr\\glazewm\\",
+      "ExecutedDateTime": "2026-01-02T19:39:18.6696782+07:00"
+    },
+    {
+      "Query": "on",
+      "ExecutedDateTime": "2026-01-02T20:39:15.8781358+07:00"
+    },
+    {
+      "Query": "onenote",
+      "ExecutedDateTime": "2026-01-02T21:22:42.5956209+07:00"
+    },
+    {
+      "Query": "w",
+      "ExecutedDateTime": "2026-01-02T21:42:10.0490148+07:00"
+    },
+    {
+      "Query": "da",
+      "ExecutedDateTime": "2026-01-02T21:44:17.0862195+07:00"
+    },
+    {
+      "Query": "office to run",
+      "ExecutedDateTime": "2026-01-02T21:44:34.5613257+07:00"
+    },
+    {
+      "Query": "w",
+      "ExecutedDateTime": "2026-01-02T22:01:20.8949166+07:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2026-01-02T22:02:12.1873768+07:00"
+    },
+    {
+      "Query": "one",
+      "ExecutedDateTime": "2026-01-02T22:04:34.1073919+07:00"
+    },
+    {
+      "Query": "s app",
+      "ExecutedDateTime": "2026-01-02T22:05:49.6677586+07:00"
+    }
+  ]
+}
