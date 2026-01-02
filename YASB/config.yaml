@@ -23,13 +23,15 @@ bars:
       height: 28
     padding:
       top: 0
-      left: 0
+      left: 5
       bottom: 2
-      right: 0
+      right: 5
     widgets:
       left:
         [
           "home",
+          "glazewm_workspaces",
+          "glazewm_tiling_direction",
           "cpu",
           "disk",
           "power_plan",
@@ -55,6 +57,38 @@ bars:
           "power_menu"
         ]
 widgets:
+  glazewm_workspaces:
+    type: "glazewm.workspaces.GlazewmWorkspacesWidget"
+    options:
+      offline_label: "GlazeWM Offline"
+      hide_empty_workspaces: true
+      hide_if_offline: false
+      enable_scroll_switching: true
+      btn_shadow:
+        enabled: true
+        color: "black"
+        radius: 3
+        offset: [ 1, 1 ]
+      app_icons: 
+        enabled_populated: false
+        enabled_active: false
+        size: 16
+        max_icons: 0
+        hide_label: false
+        hide_duplicates: false
+        hide_floating: false
+      animation: false
+
+  glazewm_tiling_direction:
+    type: "glazewm.tiling_direction.GlazewmTilingDirectionWidget"
+    options:
+      horizontal_label: "\udb81\udce1"
+      vertical_label: "\udb81\udce2"
+      btn_shadow:
+        enabled: true
+        color: "black"
+        radius: 3
+        offset: [ 1, 1 ]
   media:
     type: "yasb.media.MediaWidget"
     options:
@@ -83,7 +117,7 @@ widgets:
         pause: "\ue769"
       media_menu:
         blur: true
-        round_corners: true
+        round_corners: false
         round_corners_type: "normal"
         border_color: "None"
         alignment: "center"
@@ -108,7 +142,7 @@ widgets:
       update_interval: 5000
       menu:
         blur: true
-        round_corners: true
+        round_corners: false
         round_corners_type: "small"
         border_color: "None"
         alignment: "center"
@@ -137,7 +171,7 @@ widgets:
         overlay_block: true
       window_style:
         enable_blur: true
-        round_corners: true
+        round_corners: false
         round_corners_type: "normal"
         border_color: "None"
       window_animation:
@@ -198,7 +232,7 @@ widgets:
       update_interval: 1000
       menu:
         blur: true
-        round_corners: true
+        round_corners: false
         round_corners_type: "normal"
         border_color: "None"
         alignment: "center"
@@ -230,11 +264,12 @@ widgets:
         - { title: "\uE617  Home", path: "~" }
         - { title: "\udb80\udd20  Download", path: "~\\Downloads" }
         - { title: "\udb80\ude1a  Documents", path: "~\\Documents" }
-        - { title: "\uf03e  Pictures", path: "~\\Pictures" }
+        - { title: "\uf03e  Pictures", path: "~\\Pictures" }x
       system_menu: true
       power_menu: false
       blur: true
       border_color: "None"
+      round_corners: false
       round_corners_type: "small"
   clock:
     type: "yasb.clock.ClockWidget"
@@ -244,7 +279,7 @@ widgets:
       timezones: []
       calendar: 
         blur: true
-        round_corners: true
+        round_corners: false
         round_corners_type: "normal"
         border_color: "None"
         alignment: "center"
@@ -270,7 +305,7 @@ widgets:
         show_apps: True
         show_app_icons: True
         show_app_labels: True
-        round_corners: True
+        round_corners: false
         round_corners_type: 'small'
         border_color: 'None'
         alignment: 'right'
@@ -289,14 +324,14 @@ widgets:
       blur: True
       blur_background: True
       animation_duration: 0
-      button_row: 3
+      button_row: 5
       buttons:
-        signout: ["\udb80\udf43","Sign out"]
         shutdown: ["\uf011","Shut Down"]
         restart: ["\uead2","Restart"]
+        signout: ["\udb80\udf43","Sign out"]
         sleep: ["\udb82\udd04","Sleep"]
         lock: ["\uf023","Lock"]
-        cancel: ["\udb81\udf3a","Cancel"]
+        cancel: ["","Cancel"]
   battery:
     type: "yasb.battery.BatteryWidget"
     options:
@@ -335,7 +370,7 @@ widgets:
           volume_labels: ["C", "D", "E", "F"]
           show_label_name: true 
           blur: true
-          round_corners: true
+          round_corners: false
           border_color: None
           alignment: "center"
           distance: 4
