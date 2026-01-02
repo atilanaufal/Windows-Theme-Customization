@@ -41,6 +41,7 @@
 	padding: 0 5px;
 	margin: 0;
 	background-color: #0b0b3500;
+
 }
 
 .icon {
@@ -76,6 +77,8 @@
 .audio-menu {
     background-color:rgba(17, 17, 27, 0.200); 
     min-width: 250px;
+    border: 1px solid #64a7ff;
+      border-radius: 8px;
 }
 /* System volume */
 .audio-menu .system-volume-container .volume-slider {
@@ -191,11 +194,14 @@
 	padding-right: 10px;
 	color: var(--text);
 }
-.power-menu-popup .button.cancel .icon {
-	color: var(--red);
+.power-menu-popup .button.cancel {
+  height: 100px;
+  color: #ff5168;
 }
+
 .power-menu-popup .button.cancel .label {
-	color: var(--red);
+	color: #ff5168;
+  font-size: 25px;
 }
 
 
@@ -203,6 +209,8 @@
 
 .calendar {
   background-color: rgba(17, 17, 27, 0.200);
+  border: 1px solid #64a7ff;
+  border-radius: 8px;
 
 }
 .calendar .calendar-table,
@@ -255,6 +263,8 @@
 }
 .home-menu {
   background-color: rgba(17, 17, 27, 0.200);
+  border: 1px solid #64a7ff;
+    border-radius: 8px;
 }
 .home-menu .menu-item {
   padding: var(--padding-menu);
@@ -333,6 +343,8 @@
 .traffic-menu {
   background-color: rgba(17, 17, 27, 0.200);
   min-width: 320px;
+  border: 1px solid #64a7ff;
+    border-radius: 8px;
 }
 
 .traffic-menu .header .title {
@@ -596,6 +608,8 @@
 }
 .launchpad .launchpad-container {
   background-color: var(--bg-primary);
+  border: 1px solid #64a7ff;
+    border-radius: 8px;
 }
 .launchpad .search-container {
   min-height: 80px;
@@ -667,7 +681,10 @@
 }
 
 .power-plan-menu {
+    min-width: 150px;
     background-color: rgba(17, 17, 27, 0.200);
+    border: 1px solid #64a7ff;
+      border-radius: 8px;
 }
 .power-plan-widget .icon {
     padding-right: 4px;
@@ -749,7 +766,8 @@
     min-width: 440px;
     max-width: 440px;
     background-color: rgba(17, 17, 27, 0.200);
-    border-radius: 5px;
+    border: 1px solid #64a7ff;
+    border-radius: 8px;
 }
 .media-menu .title,
 .media-menu .artist,
@@ -823,4 +841,106 @@
     background: white;
     border-radius: 3px;
     height: 4px;
+}
+
+/***---------------------------------      • GlazeWM Widget •      ----------------------------------***/
+
+/*glazewm workspace styles*/
+.glazewm-workspaces {
+  margin: 0;
+}
+
+.glazewm-workspaces .ws-btn {
+  font-size: 15px;
+  background-color: transparent;
+  border: none;
+  padding: 5px;
+  margin: 0;
+  color: #95a0ad;
+}
+
+.glazewm-workspaces .ws-btn.active_populated {
+  color: #64a7ff;
+}
+
+.glazewm-workspaces .ws-btn.active_empty {
+  color: #89b4fa;
+}
+
+.glazewm-workspaces .ws-btn.populated {
+  color: #74c7ec;
+}
+
+.glazewm-workspaces .ws-btn.empty {
+  color: #95a0ad;
+}
+
+.glazewm-workspaces .ws-btn:hover,
+.glazewm-workspaces .ws-btn.populated:hover,
+.glazewm-workspaces .ws-btn.empty:hover {
+  color: #89b4fa;
+}
+
+/*glazewm tiling direction styles*/
+.glazewm-tiling-direction {
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+}
+
+.glazewm-tiling-direction .btn {
+  font-size: 15px;
+
+  padding: 5px;
+  border-radius: 3px;
+  color: #CDD6F4;
+  border: none;
+}
+
+.glazewm-tiling-direction .btn:hover {
+  background-color: var(--bg-hover-primary);
+}
+
+
+/***---------------------------------      • Disk Group Widget •      ----------------------------------***/
+
+.disk-group {
+  background-color: var(--bg-primary);
+  border: 1px solid #64a7ff;
+  border-radius: 8px;
+}
+
+.disk-group-row{
+  min-width: 200px;
+  max-width: 450px;
+ 
+
+  border-radius: 5px;
+}
+
+.disk-group-row:hover {
+  background-color: var(--bg-hover-primary);
+}
+
+.disk-group-label-bar {
+  max-height: 8px;
+  border-radius: 3px;
+  background-color: #3b83f656;
+
+
+}
+.disk-group-label-bar::chunk {
+  background-color: #64a7ff;
+  border-radius: 3px;
+
+}
+
+.disk-group-label{
+  font-size: 12px;
+  border-radius: 3px;
+}
+
+.disk-group-label-size{
+  font-size: 12px;
+ 
 }
