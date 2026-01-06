@@ -10,7 +10,7 @@ bars:
       position: "top"
       center: false
     blur_effect:
-      enabled: false
+      enabled: true
       acrylic: false
       dark_mode: true
       round_corners: false
